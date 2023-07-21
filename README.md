@@ -17,3 +17,7 @@ This project is an application that aims to provide basic information about horo
 ## Requirements
 - Android 6.0 Marshmallow and higher operating system
 
+## Setup
+- Clone this repository: `git clone https://github.com/CanSamet0/horoscope-informations.git`
+- Open Android Studio and import the project
+- Run the app on the emulator or a physical Android device.
