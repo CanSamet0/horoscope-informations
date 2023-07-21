@@ -1,4 +1,4 @@
-# HOROSCOPE INFORMATION
+# ZODIAC SIGNS
 This project is an application that aims to provide basic information about horoscopes to users who are interested in astrology. The project has been developed as an Android application.
 
 ## Features
